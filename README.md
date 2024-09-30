@@ -8,6 +8,7 @@ The program runs using a technique called `REPL` Read-Evaluate-Print-Loop.
 ## Example
 To convert from base 2 to 10. 
 Set mode to 2->10, the arrow  direction is also crucial as you can also do 10<-2 to mean the same.
+Current program works with base 2 up to 10
 ```
 [in] : mode=2->10
 [in]: 0010
